@@ -14,7 +14,7 @@
   ],
   "author": "Bárbara Cabral",
   "license": "ISC",
-  "devDependencies": {
+  "dependencies": {
     "cypress": "^10.11.0"
   }
 }
